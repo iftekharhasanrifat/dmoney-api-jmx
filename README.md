@@ -26,7 +26,7 @@ Add following requests:
 
 ## For Report Generation
 - open cmd from the bin folder of the jmeter installation path. and hit the following command
-```jmeter -n -t Dmoney-API.jmx -l Dmoney-API.csv -e -o Reports```
+- ```jmeter -n -t Dmoney-API.jmx -l Dmoney-API.csv -e -o Reports```
 
  ## Prerequisite
  - Jmeter must be installed
